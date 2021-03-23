@@ -4,16 +4,16 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ## Table of contents
 
-- [](#overview)
-  - [](#the-challenge)
-  - [](#screenshot)
-  - [](#links)
-- [](#my-process)
-  - [](#built-with)
-  - [](#continued-development)
-  - [](#useful-resources)
-- [](#author)
-- [](#acknowledgments)
+- [Overview](#overview)
+  - [challenge](#the-challenge)
+  - [screenshot](#screenshot)
+  - [links](#links)
+- [my-process](#my-process)
+  - [built-with](#built-with)
+  - [continued-development](#continued-development)
+  - [useful-resources](#useful-resources)
+- [author](#author)
+- [acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/anthoni-gmu/Testimonials-grid-section)
-- Live Site URL: [](https://anthoni-gmu.github.io/Testimonials-grid-section/)
+- Solution URL: [https://github.com/anthoni-gmu/Testimonials-grid-section](https://github.com/anthoni-gmu/Testimonials-grid-section)
+- Live Site URL: [https://anthoni-gmu.github.io/Testimonials-grid-section](https://anthoni-gmu.github.io/Testimonials-grid-section/)
 
 ## My process
 
@@ -48,15 +48,15 @@ I liked bootstrap as it is a very easy and fast way to make designs, in the futu
 
 ### Useful resources
 
-- [](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - The official bootstrap documentation helped me a lot as a guide 
+- [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - The official bootstrap documentation helped me a lot as a guide 
 
 ## Author
 
-- Instagram - [](https://www.instagram.com/tons0ft/) 
-- Frontend Mentor - [](https://www.frontendmentor.io/profile/anthoni-gmu)
+- Instagram - [tons0ft](https://www.instagram.com/tons0ft/) 
+- Frontend Mentor - [anthoni-gmu](https://www.frontendmentor.io/profile/anthoni-gmu)
 
 
 ## Acknowledgments
 
-This channel served me as a guide for my learning: [](https://www.youtube.com/channel/UCH7IANkyEcsVW_y1Ilpkam)
+This channel served me as a guide for my learning: [Bluuweb](https://www.youtube.com/c/Bluuweb/videos)
 
